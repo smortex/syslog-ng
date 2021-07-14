@@ -26,6 +26,7 @@ SCL_SUBDIRS	= \
 	osquery	\
 	pacct		\
 	paloalto 	\
+	postfix 	\
 	rewrite	\
 	slack \
 	snmptrap	\

@@ -26,6 +26,7 @@ set(SCL_DIRS
     osquery
     pacct
     paloalto
+    postfix
     rewrite
     slack
     snmptrap
