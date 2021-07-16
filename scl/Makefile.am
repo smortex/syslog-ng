@@ -28,6 +28,7 @@ SCL_SUBDIRS	= \
 	paloalto 	\
 	rewrite	\
 	slack \
+	slapd		\
 	snmptrap	\
 	solaris	\
 	sudo		\

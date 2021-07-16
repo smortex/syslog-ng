@@ -28,6 +28,7 @@ set(SCL_DIRS
     paloalto
     rewrite
     slack
+    slapd
     snmptrap
     solaris
     sudo
