@@ -176,7 +176,7 @@ testcase_with_message(LogMessage *msg,
   gboolean res;
 
   res = filter_expr_init(f, configuration);
-  cr_assert(res, "Filter init failed; msg='%s'\n", msg);
+  cr_assert(res, "Filter init failed; name='%s'\n", name);
 
   res = filter_expr_eval(f, msg);
   cr_assert_eq(res, expected_result, "Filter test failed; name='%s'\n", name);
